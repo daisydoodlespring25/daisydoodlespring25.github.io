@@ -1,4 +1,4 @@
-# iigca.github.io
+# Daisy Data
 
 ## 👋 Hi there!  I’m Daisy the COOLEST Data Analyst 🌼
 
