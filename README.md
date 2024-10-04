@@ -1,6 +1,6 @@
 # iigca.github.io
 
-## 👋 Hi there!  I’m Daisy the Data Analyst 🌼
+## 👋 Hi there!  I’m Daisy the COOLEST Data Analyst 🌼
 
 ### About Me
 
