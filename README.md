@@ -12,17 +12,35 @@ I’m not just here to chase my tail; I’m on the lookout for my next adventure
 
 ### Experience
 
-**Global Career Accelerator** | SQL & Python Trainee  (Fall ‘24)
+**Global Career Accelerator** | SQL & Python Trainee  (Spring ‘25)
 
-- Conducted data analysis using SQL queries to extract and manipulate data
-- Analyzed user behavior and motivation across various industries and scenarios
-- Gained insights into global business strategy by using data techniques such as exploratory data analysis, summary statistics, and data visualization
+- Extracted and transformed large datasets using SQL to support business analysis.
+- Analyzed user behavior trends across industries to drive data-driven decision-making.
+- Leveraged EDA, summary statistics, and visualization to generate actionable business insights.
 
 ### Tools
 
 - 🔢 SQL
-- 📊 Tableau
+- 📊 Tableau Cloud
 - 🐍 Python
+- Jupyter Notebook
+- 🐼 Python’s Pandas
+- 🐫 Python’s Numpy
+- 🗺️ Python’s Plotly
+
+### Skills
+
+- Querying Data in SQL
+- Using Conditional Logic
+- Intercultural Teamwork
+- Data Aggregation
+- Coding in Python
+- Python Libraries
+- Visualizing Data
+- Data Joining
+- Creating Functions
+- Exploring Data
+- Cleaning Data
 
 ### Projects
 
