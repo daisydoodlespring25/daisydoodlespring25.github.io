@@ -28,6 +28,4 @@ I’m not just here to chase my tail; I’m on the lookout for my next adventure
 
 - [Data Analysis Report: London Transportation Journey Survey](https://docs.google.com/document/d/1PbFqdV3Xd_x5sAlFoDxB1qvo6SjvDNyLyagi5MvMnfU/edit?usp=sharing)
     - Some one liner here about my project
-- [Data Analysis Report: NYC Public Schools](https://iigca.github.io/Python-Example-NYC-Schools.html)
-    - Some one liner here about my project
 - Project 3
