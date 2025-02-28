@@ -1,6 +1,6 @@
-# Some Cool Title
+# Daisy’s Data Portfolio 
 
-## 👋 Hi there!  I’m Someone!
+## 👋 Hi there!  I’m Daisy Data!
 
 ### About Me
 
